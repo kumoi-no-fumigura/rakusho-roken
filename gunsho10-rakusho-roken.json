@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/rakusho-roken",
  "yomi": "らくしょろけん",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "室町前期",
+  "author": "今川了俊",
+  "desc": "今川了俊が冷泉為尹の歌風をめぐる世評に対し、師から受けた教えを示して冷泉家の立場を弁じた書。連歌の風体を正すため二条良基の教えにも触れる。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -179,6 +184,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
